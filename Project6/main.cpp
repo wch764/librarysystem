@@ -146,6 +146,6 @@ int main() {
     saveDataToFile("borrowinfo.dat", borrowInfos);
     saveDataToFile("admins.dat", admins);
 
-    cout << "系统已退出，数据已保存。" << endl;
+    cout << "系统退出，数据已保存。" << endl;
     return 0;
 }
